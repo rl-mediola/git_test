@@ -1,0 +1,1 @@
+git fetch --no-tags --force --progress -- https://github.com/rl-mediola/git_test.git +refs/heads/master:refs/remotes/origin/master
